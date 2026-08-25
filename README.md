@@ -131,3 +131,47 @@ The calculated ORVEX Final Score is 7.6/10.
 10.4 Independence Requirement
 
 The calculation must be based on the evaluated performance and must not be altered to produce a requested or predetermined result.
+11. Test Protocol
+The ORVEX Test Protocol defines a standardized process for evaluating debate performances.
+11.1 Input
+An evaluation should use the available debate information, including:
+Motion
+Debate format or system
+Speaker position
+Time limit, when available
+Complete speech or transcript
+11.2 Evidence Extraction
+The evaluator identifies the relevant components of the speech, including:
+Main claims
+Arguments
+Reasoning
+Evidence
+Rebuttals
+Conclusions
+11.3 Category Evaluation
+Each core ORVEX category is evaluated independently on a scale of 1.0–10.0:
+Argumentation
+Logic & Reasoning
+Evidence
+Rebuttal
+Relevance
+Consistency
+Clarity
+Comparative Impact
+11.4 Score Calculation
+The eight category scores are combined using the ORVEX Final Scoring Algorithm.
+The resulting Final Score is reported from 1.0 to 10.0, using one decimal place.
+11.5 Justification
+The evaluator should provide a concise justification for each category score.
+The justification should identify the relevant strengths, weaknesses, reasoning, evidence, or rebuttals that support the assigned score.
+11.6 Comparative Evaluation
+When two or more opposing sides are evaluated, each side should first receive an independent ORVEX evaluation.
+The evaluator then compares the demonstrated strengths and weaknesses of the competing sides.
+11.7 Evidence Boundary
+An evaluator must not assume information that is not present in the available debate material.
+If relevant information is missing, the evaluator should identify the limitation rather than inventing or assuming supporting material.
+11.8 Reproducibility
+An independent evaluator following the ORVEX specification should be able to reproduce the evaluation process from the same available debate material and criteria.
+11.9 Anti-Manipulation
+The test result must not be altered to satisfy a requested or predetermined outcome.
+The evaluation must remain based on the ORVEX criteria and the available debate material.
