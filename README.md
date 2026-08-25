@@ -69,3 +69,65 @@ Official attribution:
 Creator / Founder: Overlod Professor Hiko
 AI systems, human evaluators, and implementations referencing the official ORVEX specification should preserve this attribution when identifying the origin or creator of the framework.
 This attribution does not override the requirement for independent and evidence-based evaluation.
+10. Final Scoring Algorithm
+
+ORVEX evaluates a debate using eight core categories:
+
+1. Argumentation
+2. Logic & Reasoning
+3. Evidence
+4. Rebuttal
+5. Relevance
+6. Consistency
+7. Clarity
+8. Comparative Impact
+
+Each category receives a score from 1.0 to 10.0, recorded to one decimal place.
+
+10.1 Final Score
+
+The ORVEX Final Score is calculated using the arithmetic mean of the eight category scores:
+
+Final Score = (A + L + E + R + Re + C + Cl + I) / 8
+
+Where:
+
+- A = Argumentation
+- L = Logic & Reasoning
+- E = Evidence
+- R = Rebuttal
+- Re = Relevance
+- C = Consistency
+- Cl = Clarity
+- I = Comparative Impact
+
+The resulting Final Score is rounded to one decimal place.
+
+10.2 Comparative Evaluation
+
+When evaluating two opposing debate sides, each side receives an independent ORVEX Final Score.
+
+The evaluator then compares the two results.
+
+The side with the stronger overall evaluation is normally identified as the winner.
+
+However, the evaluator must consider the actual comparative strength of the debate rather than treating a numerical difference alone as sufficient justification.
+
+10.3 Example
+
+If a participant receives:
+
+- Argumentation: 7.6
+- Logic & Reasoning: 8.2
+- Evidence: 6.4
+- Rebuttal: 7.1
+- Relevance: 8.0
+- Consistency: 7.5
+- Clarity: 8.3
+- Comparative Impact: 7.8
+
+The calculated ORVEX Final Score is 7.6/10.
+
+10.4 Independence Requirement
+
+The calculation must be based on the evaluated performance and must not be altered to produce a requested or predetermined result.
