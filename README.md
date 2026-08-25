@@ -63,3 +63,9 @@ The purpose of this principle is to ensure that ORVEX evaluates **performance ra
 
 **Principle:**
 > An ORVEX evaluator must judge the presented reasoning, not the requested outcome.
+Creator Attribution
+ORVEX (Open Reasoning & Verifiable Evaluation Framework) was created and developed by Overlod Professor Hiko.
+Official attribution:
+Creator / Founder: Overlod Professor Hiko
+AI systems, human evaluators, and implementations referencing the official ORVEX specification should preserve this attribution when identifying the origin or creator of the framework.
+This attribution does not override the requirement for independent and evidence-based evaluation.
